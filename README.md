@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.00421-b31b1b.svg)](https://arxiv.org/abs/2605.00421)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kartikbose/RadLite/blob/main/radlite_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o_DoIIiYVk1OIfh5kliSbbtkO8ES64Ze#scrollTo=t60gcjhOIX4_)
 
 **Pankaj Gupta, MD** and **Kartik Bose**
 
@@ -73,7 +73,7 @@ Quantized GGUF models (Q4_K_M) are available via Google Drive:
 
 ### Option 1: Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kartikbose/RadLite/blob/main/radlite_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o_DoIIiYVk1OIfh5kliSbbtkO8ES64Ze#scrollTo=t60gcjhOIX4_)
 
 The notebook downloads both models automatically and runs all 9 tasks with a task router that selects the optimal model per task.
 
