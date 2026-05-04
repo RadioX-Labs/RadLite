@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI"
+authors:
+  - family-names: "Gupta"
+    given-names: "Pankaj"
+    affiliation: "Postgraduate Institute of Medical Education and Research, Chandigarh, India"
+  - family-names: "Bose"
+    given-names: "Kartik"
+    affiliation: "Postgraduate Institute of Medical Education and Research, Chandigarh, India"
+year: 2026
+doi: "10.48550/arXiv.2605.00421"
+repository-code: "https://github.com/kartikbose/RadLite"
+url: "https://arxiv.org/abs/2605.00421"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - radiology
+  - language-models
+  - LoRA
+  - fine-tuning
+  - CPU-deployment
+  - RADS
+  - medical-AI
+abstract: >
+  Large language models show promise in radiology but their deployment is limited
+  by computational requirements. We investigate whether small language models of
+  3-4 billion parameters can achieve strong multi-task radiology performance through
+  LoRA fine-tuning, enabling deployment on consumer-grade CPUs. We train Qwen2.5-3B-Instruct
+  and Qwen3-4B on 162K samples spanning 9 radiology tasks compiled from 12 public datasets.
